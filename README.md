@@ -1,5 +1,7 @@
 # Olive Shop E-commerce Website
 
+![Product Image](https://github.com/ananqrareya/OliveShop/blob/master/Screenshot%202024-03-14%20001916.png?raw=true)
+
 This is a simple e-commerce website implemented using Spring Boot. It allows customers to browse products, add them to a basket, and simulate orders. Additionally, admin users have privileges to manage products on the site.
 
 ## Features
